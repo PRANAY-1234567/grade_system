@@ -2,8 +2,6 @@
 
 A simple **Python command-line program** that takes marks for multiple subjects, calculates the **total**, computes the **average**, and assigns a **grade** based on the average score.
 
----
-
 ## 🚀 Features
 
 - Accepts marks for **6 subjects**
