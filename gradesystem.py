@@ -1,4 +1,5 @@
 total_marks=0
+
 for i in range (6):
     marks=int(input(f"Enter the numbers {i}"))
     total_marks+=marks
