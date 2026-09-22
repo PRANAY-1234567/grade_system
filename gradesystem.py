@@ -19,3 +19,4 @@ elif(avg>35):
 else:
     b="FAILL"
 print(b)
+
